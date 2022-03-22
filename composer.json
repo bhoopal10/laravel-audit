@@ -1,16 +1,16 @@
 {
-    "name": "framesnpictures/laravel-audit",
+    "name": "framesnpictures-laravel/laravel-audit",
     "description": "Laravel Audit Module",
     "type": "library",
     "require": {
-        "framesnpictures/laravel-module": "dev-develop",
-        "framesnpictures/dto": "^0.5.7",
+        "framesnpictures/laravel-module": "^1.0.1",
+        "framesnpictures-laravel/dto": "^0.6.0",
         "nesbot/carbon": "^2.24"
     },
     "authors": [
         {
-            "name": "Chris Cynarski",
-            "email": "krzysztof@cynarski.net"
+            "name": "Bhoopal",
+            "email": "bhoopal10@gmail.com"
         }
     ],
     "require-dev": {
