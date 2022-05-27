@@ -3,8 +3,8 @@
     "description": "Laravel Audit Module",
     "type": "library",
     "require": {
-        "framesnpictures-laravel/laravel-module": "^1.0.1",
-        "framesnpictures-laravel/dto": "^0.6.0",
+        "framesnpictures-laravel/laravel-module": "dev-php-7.2",
+        "framesnpictures-laravel/dto": "dev-php-7.2",
         "nesbot/carbon": "^2.24"
     },
     "authors": [
